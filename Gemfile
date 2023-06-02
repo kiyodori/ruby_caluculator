@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "rspec", "~> 3.10", group: :development
-gem "rubocop", "~> 1.49", require: false
+gem "rspec", "~> 3.12", group: :development
+gem "rubocop", "~> 1.51", require: false
